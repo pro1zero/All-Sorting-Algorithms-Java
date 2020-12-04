@@ -1,5 +1,6 @@
 # All-Sorting-Algorithms-Java
 time and space complexities for all the sorting algorithms:
+
 bubble sort: O(N^2) : O(1)
 
 selection sort: O(N^2) : O(1)
