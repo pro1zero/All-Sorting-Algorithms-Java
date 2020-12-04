@@ -11,6 +11,6 @@ heap sort: O(NlogN) : O(1)
 
 quick sort: O(NlogN) : O(NlogN)
 
-merge sort: O(NlogN) : O(N) [in my implementation only, in general O(NlogN)]
+merge sort: O(NlogN) : O(NlogN) though it can be done in O(N) if used just one auxilliary space.
 
 three number Sort : O(N) : O(1)
