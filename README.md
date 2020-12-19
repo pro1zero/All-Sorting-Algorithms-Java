@@ -1,4 +1,6 @@
 # All-Sorting-Algorithms-Java
+[![HitCount](http://hits.dwyl.com/pro1zero/All-Sorting-Algorithms-Java.svg)](http://hits.dwyl.com/pro1zero/All-Sorting-Algorithms-Java)
+
 time and space complexities for all the sorting algorithms:
 
 bubble sort: O(N^2) : O(1)
